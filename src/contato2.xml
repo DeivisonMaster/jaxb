@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<contato>
+	<endereco>
+		<bairro>Centro</bairro>
+		<cep>2000-0000</cep>
+		<cidade>RJ</cidade>
+		<logradouro>Rua Moraes</logradouro>
+		<numero>40</numero>
+	</endereco>
+	<idade>34</idade>
+	<nome>Marco Maciel</nome>
+	<sexo>M</sexo>
+</contato>
